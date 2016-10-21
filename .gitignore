@@ -1,0 +1,23 @@
+### Gradle ###
+.gradle
+build/
+bin/
+
+### testNG ###
+test-output/
+test-output-tests/
+
+# Eclipse specific files/directories
+.classpath
+.project
+.settings
+.metadata
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
