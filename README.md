@@ -11,11 +11,11 @@ application which provides a very basic RESTful web service.
 
 ## Building the application
 
-Then build the application: `./gradlew build`
+Run `./gradlew build` to build the application.
 
 ## Running the application
 
-Note: Make sure mongod service is running.
+Note: Make sure `mongod` service is running.
 
 ```
 java -jar build/libs/march20-0.1.0.jar
